@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrialNavigator/static/css/main.157e773e.css",
+    "main.js": "/TrialNavigator/static/js/main.5edcbf66.js",
+    "index.html": "/TrialNavigator/index.html",
+    "main.157e773e.css.map": "/TrialNavigator/static/css/main.157e773e.css.map",
+    "main.5edcbf66.js.map": "/TrialNavigator/static/js/main.5edcbf66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.157e773e.css",
+    "static/js/main.5edcbf66.js"
+  ]
+}
