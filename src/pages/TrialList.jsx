@@ -151,6 +151,11 @@ export default function TrialList({ disease, go }) {
 
       {error && <div className="error-msg">{error}</div>}
       {loading && <div className="loading">Loading trials from ClinicalTrials.gov...</div>}
+      {!loading && diseaseConfig?.trialNote && (
+          <div className="callout" style={{ marginBottom: "1.25rem" }}>
+            {diseaseConfig.trialNote}
+          </div>
+      )}
 
       {!loading && !error && (
         <>
