@@ -76,6 +76,7 @@ main { flex: 1; }
   top: 0;
   z-index: 50;
   box-shadow: var(--shadow-sm);
+  width: 100%;
 }
 .nav-inner {
   max-width: 1120px;
@@ -85,7 +86,29 @@ main { flex: 1; }
   display: flex;
   align-items: center;
   gap: 1.5rem;
+  flex-wrap: nowrap;
 }
+.nav-links {
+  display: flex;
+  gap: 2px;
+  flex-shrink: 1;
+  min-width: 0;
+}
+.nav-btn {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--ink-2);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px 10px;
+  border-radius: var(--radius);
+  transition: background 0.1s, color 0.1s;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.nav-btn:hover { background: var(--rule-light); color: var(--ink); }
+.nav-btn.active { color: var(--accent); background: var(--accent-dim); }
 .nav-brand {
   font-size: 1.1rem;
   font-weight: 700;

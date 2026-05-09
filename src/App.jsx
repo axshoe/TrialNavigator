@@ -36,7 +36,7 @@ export default function App() {
       {!embed && (
         <nav className="nav">
           <div className="nav-inner">
-            <div className="nav-brand" onClick={() => go("home")}>
+            <div className="nav-brand" onClick={() => go("home")} style={{ flexShrink: 0 }}>
               Trial<span>Navigator</span>
             </div>
             <div className="nav-links">
