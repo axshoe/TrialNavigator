@@ -1,21 +1,21 @@
 {
-  "generated": "2026-07-06T12:10:11.994707",
+  "generated": "2026-07-13T11:20:27.270764",
   "changes": [
+    {
+      "nct_id": "NCT06585605",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:08.140274"
+    },
     {
       "nct_id": "NCT01543750",
       "disease": "cacna1a",
       "change_type": "new_trial",
       "old": null,
       "new": "WITHDRAWN",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT07221292",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
       "nct_id": "NCT06967727",
@@ -23,39 +23,15 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
-      "nct_id": "NCT06585605",
+      "nct_id": "NCT07221292",
       "disease": "cacna1a",
       "change_type": "new_trial",
       "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT00687947",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT00358839",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT00257985",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
+      "new": "NOT_YET_RECRUITING",
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
       "nct_id": "NCT00541736",
@@ -63,15 +39,31 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
-      "nct_id": "NCT01793168",
+      "nct_id": "NCT00687947",
       "disease": "cacna1a",
       "change_type": "new_trial",
       "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT00358839",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT00257985",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
       "nct_id": "NCT00110045",
@@ -79,15 +71,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT01470729",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
       "nct_id": "NCT05687474",
@@ -95,71 +79,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
-      "nct_id": "NCT03378414",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT01037777",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT05826171",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT02960893",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT03701399",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT01060371",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT07325487",
+      "nct_id": "NCT01793168",
       "disease": "cacna1a",
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
-      "nct_id": "NCT01934998",
+      "nct_id": "NCT01470729",
       "disease": "cacna1a",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
       "nct_id": "NCT04301284",
@@ -167,23 +103,15 @@
       "change_type": "new_trial",
       "old": null,
       "new": "WITHDRAWN",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
-      "nct_id": "NCT04268147",
+      "nct_id": "NCT01934998",
       "disease": "cacna1a",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT07288437",
-      "disease": "cacna1a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
       "nct_id": "NCT01811706",
@@ -191,7 +119,79 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:54.824811"
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT04268147",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT05826171",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT02960893",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT07325487",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT03701399",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT01037777",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT07288437",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT03378414",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NOT_YET_RECRUITING",
+      "at": "2026-07-13T11:20:08.140274"
+    },
+    {
+      "nct_id": "NCT01060371",
+      "disease": "cacna1a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
       "nct_id": "NCT03408080",
@@ -199,167 +199,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:09:54.824811"
-    },
-    {
-      "nct_id": "NCT06617429",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT02226458",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT06353620",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT06139172",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT04428281",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT03882918",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT05637697",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT02381457",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT04259281",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT03358823",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT01281475",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT06914609",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT06115109",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT03650569",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT06229769",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT06415344",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT05127226",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT01852708",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT04103333",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT05100810",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:08.140274"
     },
     {
       "nct_id": "NCT07605429",
@@ -367,71 +207,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT04155944",
+      "nct_id": "NCT01852708",
       "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT04106557",
+      "nct_id": "NCT01281475",
       "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT00773825",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT07181837",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT04768803",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT01906866",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT07417137",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT00296764",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
       "nct_id": "NCT02996305",
@@ -439,135 +231,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT02670694",
+      "nct_id": "NCT00773825",
       "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT06737718",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT03235037",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT06337383",
+      "nct_id": "NCT05100810",
       "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT03720028",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT07136454",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "AVAILABLE",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT02109770",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT00348933",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT00004351",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT05293184",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT02056665",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT03655223",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT05011851",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT05945576",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT07157254",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT01903681",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
       "nct_id": "NCT00829439",
@@ -575,47 +255,71 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT03644693",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT03836300",
-      "disease": "angelman",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:09:55.883296"
-    },
-    {
-      "nct_id": "NCT04507997",
+      "nct_id": "NCT06353620",
       "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT05783791",
+      "nct_id": "NCT04768803",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT06229769",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT04428281",
       "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT04863794",
+      "nct_id": "NCT03882918",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT02109770",
       "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT05127226",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT00348933",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
       "nct_id": "NCT03109756",
@@ -623,7 +327,55 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT00296764",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT07157254",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT02226458",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT06415344",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ENROLLING_BY_INVITATION",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT03358823",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT05783791",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
       "nct_id": "NCT05630066",
@@ -631,7 +383,151 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT04106557",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT03720028",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT03644693",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT01903681",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT00004351",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT04507997",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT01906866",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT03235037",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT07136454",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "AVAILABLE",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT04103333",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT05637697",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT05945576",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT06617429",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT06737718",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT07417137",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT04259281",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT02670694",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT02381457",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
       "nct_id": "NCT01531582",
@@ -639,23 +535,111 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:55.883296"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT07463599",
-      "disease": "ctnnb1",
+      "nct_id": "NCT07181837",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT05011851",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT03836300",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ENROLLING_BY_INVITATION",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT06115109",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT06337383",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT03655223",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT04863794",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT03650569",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT04155944",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT06139172",
+      "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:56.387846"
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
-      "nct_id": "NCT07270549",
-      "disease": "ctnnb1",
+      "nct_id": "NCT02056665",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT06914609",
+      "disease": "angelman",
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:56.387846"
+      "at": "2026-07-13T11:20:09.344889"
+    },
+    {
+      "nct_id": "NCT05293184",
+      "disease": "angelman",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.344889"
     },
     {
       "nct_id": "NCT07167732",
@@ -663,23 +647,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:56.387846"
-    },
-    {
-      "nct_id": "NCT04812119",
-      "disease": "ctnnb1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:56.387846"
-    },
-    {
-      "nct_id": "NCT05919264",
-      "disease": "ctnnb1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:56.387846"
+      "at": "2026-07-13T11:20:09.888632"
     },
     {
       "nct_id": "NCT01238250",
@@ -687,31 +655,39 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:56.387846"
+      "at": "2026-07-13T11:20:09.888632"
     },
     {
-      "nct_id": "NCT02738281",
-      "disease": "foxg1",
+      "nct_id": "NCT07270549",
+      "disease": "ctnnb1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.888632"
+    },
+    {
+      "nct_id": "NCT07463599",
+      "disease": "ctnnb1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.888632"
+    },
+    {
+      "nct_id": "NCT04812119",
+      "disease": "ctnnb1",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:57.344312"
+      "at": "2026-07-13T11:20:09.888632"
     },
     {
-      "nct_id": "NCT07293546",
-      "disease": "foxg1",
+      "nct_id": "NCT05919264",
+      "disease": "ctnnb1",
       "change_type": "new_trial",
       "old": null,
-      "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:09:57.344312"
-    },
-    {
-      "nct_id": "NCT00299312",
-      "disease": "foxg1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:57.344312"
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:09.888632"
     },
     {
       "nct_id": "NCT06938542",
@@ -719,7 +695,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:09:57.344312"
+      "at": "2026-07-13T11:20:10.952649"
+    },
+    {
+      "nct_id": "NCT00299312",
+      "disease": "foxg1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:10.952649"
+    },
+    {
+      "nct_id": "NCT02738281",
+      "disease": "foxg1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:10.952649"
     },
     {
       "nct_id": "NCT02705677",
@@ -727,55 +719,15 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:57.344312"
+      "at": "2026-07-13T11:20:10.952649"
     },
     {
-      "nct_id": "NCT06625112",
-      "disease": "stxbp1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:57.832901"
-    },
-    {
-      "nct_id": "NCT05232630",
-      "disease": "stxbp1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:57.832901"
-    },
-    {
-      "nct_id": "NCT05462054",
-      "disease": "stxbp1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:09:57.832901"
-    },
-    {
-      "nct_id": "NCT04937062",
-      "disease": "stxbp1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:09:57.832901"
-    },
-    {
-      "nct_id": "NCT05161494",
-      "disease": "stxbp1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:57.832901"
-    },
-    {
-      "nct_id": "NCT06356233",
-      "disease": "stxbp1",
+      "nct_id": "NCT07293546",
+      "disease": "foxg1",
       "change_type": "new_trial",
       "old": null,
       "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:09:57.832901"
+      "at": "2026-07-13T11:20:10.952649"
     },
     {
       "nct_id": "NCT06983158",
@@ -783,7 +735,55 @@
       "change_type": "new_trial",
       "old": null,
       "new": "TERMINATED",
-      "at": "2026-07-06T12:09:57.832901"
+      "at": "2026-07-13T11:20:11.493080"
+    },
+    {
+      "nct_id": "NCT05161494",
+      "disease": "stxbp1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:11.493080"
+    },
+    {
+      "nct_id": "NCT06356233",
+      "disease": "stxbp1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NOT_YET_RECRUITING",
+      "at": "2026-07-13T11:20:11.493080"
+    },
+    {
+      "nct_id": "NCT05462054",
+      "disease": "stxbp1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:11.493080"
+    },
+    {
+      "nct_id": "NCT05232630",
+      "disease": "stxbp1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:11.493080"
+    },
+    {
+      "nct_id": "NCT06625112",
+      "disease": "stxbp1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:11.493080"
+    },
+    {
+      "nct_id": "NCT04937062",
+      "disease": "stxbp1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:11.493080"
     },
     {
       "nct_id": "NCT06555965",
@@ -791,15 +791,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:57.832901"
-    },
-    {
-      "nct_id": "NCT05157737",
-      "disease": "kcnq2",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:58.312112"
+      "at": "2026-07-13T11:20:11.493080"
     },
     {
       "nct_id": "NCT04912856",
@@ -807,7 +799,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "TERMINATED",
-      "at": "2026-07-06T12:09:58.312112"
+      "at": "2026-07-13T11:20:12.025158"
     },
     {
       "nct_id": "NCT03934268",
@@ -815,7 +807,15 @@
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:58.312112"
+      "at": "2026-07-13T11:20:12.025158"
+    },
+    {
+      "nct_id": "NCT05157737",
+      "disease": "kcnq2",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:12.025158"
     },
     {
       "nct_id": "NCT04802135",
@@ -823,7 +823,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:09:58.312112"
+      "at": "2026-07-13T11:20:12.025158"
     },
     {
       "nct_id": "NCT04639310",
@@ -831,39 +831,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "TERMINATED",
-      "at": "2026-07-06T12:09:58.312112"
-    },
-    {
-      "nct_id": "NCT07602205",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT05558371",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT04678479",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NO_LONGER_AVAILABLE",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT05249556",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:09:58.818385"
+      "at": "2026-07-13T11:20:12.025158"
     },
     {
       "nct_id": "NCT03694275",
@@ -871,87 +839,15 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:09:58.818385"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT06447675",
+      "nct_id": "NCT07602205",
       "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT05364021",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT06149663",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "AVAILABLE",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT06663163",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT03861871",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT03635073",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT06448663",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT05626634",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT03650452",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT03572933",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:09:58.818385"
+      "new": "NOT_YET_RECRUITING",
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
       "nct_id": "NCT04486768",
@@ -959,15 +855,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "SUSPENDED",
-      "at": "2026-07-06T12:09:58.818385"
-    },
-    {
-      "nct_id": "NCT05373719",
-      "disease": "cdkl5",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:09:58.818385"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
       "nct_id": "NCT05064878",
@@ -975,415 +863,119 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:09:58.818385"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT06112275",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05140122",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02358538",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT04572243",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT03467113",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT06504511",
-      "disease": "dravet",
+      "nct_id": "NCT05558371",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT07112365",
-      "disease": "dravet",
+      "nct_id": "NCT05249556",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT06598449",
-      "disease": "dravet",
+      "nct_id": "NCT03635073",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT02239276",
-      "disease": "dravet",
+      "nct_id": "NCT04678479",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "NO_LONGER_AVAILABLE",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT02910297",
-      "disease": "dravet",
+      "nct_id": "NCT06448663",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:00.838841"
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT02815540",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT06908226",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02286986",
-      "disease": "dravet",
+      "nct_id": "NCT03572933",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT07531745",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02091375",
-      "disease": "dravet",
+      "nct_id": "NCT05626634",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT05485831",
-      "disease": "dravet",
+      "nct_id": "NCT03861871",
+      "disease": "cdkl5",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:12.599799"
+    },
+    {
+      "nct_id": "NCT05373719",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT04611438",
-      "disease": "dravet",
+      "nct_id": "NCT06149663",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:00.838841"
+      "new": "AVAILABLE",
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT05651204",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT01533506",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NO_LONGER_AVAILABLE",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT01835314",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NO_LONGER_AVAILABLE",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05472389",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05419492",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02415686",
-      "disease": "dravet",
+      "nct_id": "NCT03650452",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT03857451",
-      "disease": "dravet",
+      "nct_id": "NCT06447675",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT02187809",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05126914",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02682927",
-      "disease": "dravet",
+      "nct_id": "NCT05364021",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
-      "nct_id": "NCT04462770",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05560282",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT04614506",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT07592650",
-      "disease": "dravet",
+      "nct_id": "NCT06663163",
+      "disease": "cdkl5",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT04437004",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "APPROVED_FOR_MARKETING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT07013331",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT06401538",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02091206",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT03299842",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT04940624",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02174094",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT01983722",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "APPROVED_FOR_MARKETING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02318563",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT03254680",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02224703",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT03780127",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "APPROVED_FOR_MARKETING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05044819",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02926898",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT07225231",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05544058",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05635266",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT07251673",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT03024827",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT04485104",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:12.599799"
     },
     {
       "nct_id": "NCT04442295",
@@ -1391,103 +983,39 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT06660394",
+      "nct_id": "NCT06401538",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT02224573",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT06924827",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02229032",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02758626",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT06371794",
+      "nct_id": "NCT04611438",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT06422377",
+      "nct_id": "NCT07531745",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT06395792",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT01607073",
+      "nct_id": "NCT02926898",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT05163314",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT06738732",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT04740476",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
       "nct_id": "NCT07675746",
@@ -1495,15 +1023,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT05982717",
+      "nct_id": "NCT07112365",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NOT_YET_RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02415686",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
       "nct_id": "NCT06872125",
@@ -1511,23 +1047,119 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT04069689",
+      "nct_id": "NCT03024827",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02224573",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT04537832",
+      "nct_id": "NCT01983722",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "APPROVED_FOR_MARKETING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04437004",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "APPROVED_FOR_MARKETING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06422377",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
       "new": "TERMINATED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06112275",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02286986",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05544058",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02758626",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02239276",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NO_LONGER_AVAILABLE",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02174094",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05419492",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT03254680",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT01533506",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NO_LONGER_AVAILABLE",
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
       "nct_id": "NCT02896608",
@@ -1535,47 +1167,55 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT03936777",
+      "nct_id": "NCT02187809",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02682927",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT06283212",
+      "nct_id": "NCT07251673",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT03299842",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05485831",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
       "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
-      "nct_id": "NCT02823145",
+      "nct_id": "NCT05126914",
       "disease": "dravet",
       "change_type": "new_trial",
       "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT04457687",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "AVAILABLE",
-      "at": "2026-07-06T12:10:00.838841"
-    },
-    {
-      "nct_id": "NCT02318602",
-      "disease": "dravet",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
       "nct_id": "NCT06118255",
@@ -1583,7 +1223,303 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04572243",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT01607073",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04614506",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05651204",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06504511",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04457687",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "AVAILABLE",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05163314",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT01835314",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NO_LONGER_AVAILABLE",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05635266",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05472389",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04537832",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05982717",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT03780127",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "APPROVED_FOR_MARKETING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT03857451",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02358538",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT03467113",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04740476",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02318563",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02910297",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06924827",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NOT_YET_RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06738732",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NOT_YET_RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02229032",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02815540",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05140122",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06371794",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02823145",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02091206",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04069689",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT07592650",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04462770",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06598449",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05026398",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06283212",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06908226",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ENROLLING_BY_INVITATION",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06395792",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT06660394",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04485104",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
       "nct_id": "NCT07176832",
@@ -1591,7 +1527,63 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:00.838841"
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT04940624",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT05560282",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02091375",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02224703",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT02318602",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT03936777",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:14.833136"
+    },
+    {
+      "nct_id": "NCT07013331",
+      "disease": "dravet",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:14.833136"
     },
     {
       "nct_id": "NCT07476417",
@@ -1599,7 +1591,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:10:01.352962"
+      "at": "2026-07-13T11:20:15.411404"
     },
     {
       "nct_id": "NCT00034398",
@@ -1607,87 +1599,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT00093951",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT06704594",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT03440112",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT04969510",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT03115489",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT03462641",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT01563224",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT05260541",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT00306865",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT01819675",
-      "disease": "gaba_a",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:02.770599"
+      "at": "2026-07-13T11:20:16.985331"
     },
     {
       "nct_id": "NCT00129441",
@@ -1695,7 +1607,71 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT04969510",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT03115489",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT00093951",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT00306865",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT05260541",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT01563224",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT03440112",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT03462641",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:16.985331"
     },
     {
       "nct_id": "NCT04832425",
@@ -1703,7 +1679,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT06704594",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:16.985331"
+    },
+    {
+      "nct_id": "NCT01819675",
+      "disease": "gaba_a",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:16.985331"
     },
     {
       "nct_id": "NCT01183312",
@@ -1711,127 +1703,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:02.770599"
-    },
-    {
-      "nct_id": "NCT05887739",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT03041363",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT02036853",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT05085704",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT02000960",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT01993186",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT03722212",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT04137692",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "SUSPENDED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT02599961",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT02960217",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT02018302",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "NO_LONGER_AVAILABLE",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT02014883",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT02013583",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT04112862",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
-    },
-    {
-      "nct_id": "NCT02018315",
-      "disease": "glut1",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
+      "at": "2026-07-13T11:20:16.985331"
     },
     {
       "nct_id": "NCT02915211",
@@ -1839,23 +1711,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
-      "nct_id": "NCT02021526",
+      "nct_id": "NCT02013583",
       "disease": "glut1",
       "change_type": "new_trial",
       "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:03.279052"
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
-      "nct_id": "NCT07432490",
+      "nct_id": "NCT03041363",
       "disease": "glut1",
       "change_type": "new_trial",
       "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.279052"
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
       "nct_id": "NCT03202108",
@@ -1863,7 +1735,31 @@
       "change_type": "new_trial",
       "old": null,
       "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:03.279052"
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT07432490",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT02036853",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT02014883",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
       "nct_id": "NCT02968953",
@@ -1871,15 +1767,55 @@
       "change_type": "new_trial",
       "old": null,
       "new": "NO_LONGER_AVAILABLE",
-      "at": "2026-07-06T12:10:03.279052"
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
-      "nct_id": "NCT04399954",
+      "nct_id": "NCT05887739",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT02960217",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT05085704",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT02018315",
       "disease": "glut1",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT04112862",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT04137692",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "SUSPENDED",
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
       "nct_id": "NCT03181399",
@@ -1887,359 +1823,63 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.279052"
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
-      "nct_id": "NCT05906251",
-      "disease": "lgmd",
+      "nct_id": "NCT01993186",
+      "disease": "glut1",
       "change_type": "new_trial",
       "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:03.846924"
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
-      "nct_id": "NCT05952388",
-      "disease": "lgmd",
+      "nct_id": "NCT02018302",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "NO_LONGER_AVAILABLE",
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT04399954",
+      "disease": "glut1",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:17.556685"
+    },
+    {
+      "nct_id": "NCT02021526",
+      "disease": "glut1",
       "change_type": "new_trial",
       "old": null,
       "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
-      "nct_id": "NCT00785005",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05973630",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02579239",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT00873782",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05409079",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT07072676",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05286281",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT04054375",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01126697",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT06507215",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT00786019",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05528757",
-      "disease": "lgmd",
+      "nct_id": "NCT02599961",
+      "disease": "glut1",
       "change_type": "new_trial",
       "old": null,
       "new": "TERMINATED",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
-      "nct_id": "NCT03439514",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02165358",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT06246513",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT04202627",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02245711",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02841267",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01976091",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT03783923",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02810028",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05876780",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05989620",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT03930628",
-      "disease": "lgmd",
+      "nct_id": "NCT02000960",
+      "disease": "glut1",
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
-      "nct_id": "NCT00390104",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01081080",
-      "disease": "lgmd",
+      "nct_id": "NCT03722212",
+      "disease": "glut1",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT07678775",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT04475926",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02428985",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT04772027",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05902351",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT00527228",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT03652259",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05224505",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT00457912",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT06605612",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT06378203",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05244824",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT00313677",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01035983",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02285062",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05206617",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:17.556685"
     },
     {
       "nct_id": "NCT05588401",
@@ -2247,159 +1887,15 @@
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
-      "nct_id": "NCT06399770",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05230459",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01740908",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT06390566",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT06747273",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT03488784",
+      "nct_id": "NCT00785005",
       "disease": "lgmd",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT06952686",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02710500",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT07184047",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT03127241",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01344798",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02635321",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT04509609",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05618080",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT00494195",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01066455",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT05775848",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT04800874",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT03981289",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
       "nct_id": "NCT04989751",
@@ -2407,79 +1903,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
-      "nct_id": "NCT04001595",
+      "nct_id": "NCT04772027",
       "disease": "lgmd",
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
-      "nct_id": "NCT01403402",
+      "nct_id": "NCT03439514",
       "disease": "lgmd",
       "change_type": "new_trial",
       "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT04824040",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02836418",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT00104078",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01783509",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT01676077",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT02759302",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT03842878",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
       "nct_id": "NCT05956132",
@@ -2487,31 +1927,111 @@
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
-      "nct_id": "NCT05102799",
-      "disease": "lgmd",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:03.846924"
-    },
-    {
-      "nct_id": "NCT00893334",
+      "nct_id": "NCT02710500",
       "disease": "lgmd",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
-      "nct_id": "NCT02050776",
+      "nct_id": "NCT02841267",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT06747273",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT03783923",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00494195",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00786019",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01344798",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02810028",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05952388",
       "disease": "lgmd",
       "change_type": "new_trial",
       "old": null,
       "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05989620",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT07072676",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ENROLLING_BY_INVITATION",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00104078",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02836418",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
       "nct_id": "NCT03492346",
@@ -2519,7 +2039,111 @@
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01081080",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT06246513",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01035983",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05224505",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00457912",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT06605612",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ENROLLING_BY_INVITATION",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05102799",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02635321",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00313677",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT04202627",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00390104",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02050776",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02759302",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
       "nct_id": "NCT04349566",
@@ -2527,7 +2151,135 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT04824040",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ENROLLING_BY_INVITATION",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT03981289",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01976091",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05906251",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT03488784",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01740908",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT06390566",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05409079",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT03842878",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02285062",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT06378203",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT03127241",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT06399770",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05230459",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT07184047",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT04054375",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
       "nct_id": "NCT06210672",
@@ -2535,7 +2287,247 @@
       "change_type": "new_trial",
       "old": null,
       "new": "WITHDRAWN",
-      "at": "2026-07-06T12:10:03.846924"
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01126697",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT04001595",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02245711",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT03930628",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01066455",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT04509609",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01783509",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05902351",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05206617",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00873782",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01676077",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT03652259",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05528757",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT01403402",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT07678775",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05286281",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT04800874",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02165358",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT06952686",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "WITHDRAWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05244824",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05618080",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05973630",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05876780",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02428985",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00527228",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT02579239",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT04475926",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT00893334",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT06507215",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:18.189603"
+    },
+    {
+      "nct_id": "NCT05775848",
+      "disease": "lgmd",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:18.189603"
     },
     {
       "nct_id": "NCT04395495",
@@ -2543,23 +2535,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:04.342145"
-    },
-    {
-      "nct_id": "NCT05281965",
-      "disease": "dup15q",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:04.830695"
-    },
-    {
-      "nct_id": "NCT05307679",
-      "disease": "dup15q",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:04.830695"
+      "at": "2026-07-13T11:20:18.736938"
     },
     {
       "nct_id": "NCT07079696",
@@ -2567,7 +2543,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "NOT_YET_RECRUITING",
-      "at": "2026-07-06T12:10:04.830695"
+      "at": "2026-07-13T11:20:19.284414"
+    },
+    {
+      "nct_id": "NCT05307679",
+      "disease": "dup15q",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:19.284414"
+    },
+    {
+      "nct_id": "NCT05281965",
+      "disease": "dup15q",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:19.284414"
     },
     {
       "nct_id": "NCT07377032",
@@ -2575,15 +2567,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:05.799794"
-    },
-    {
-      "nct_id": "NCT02099994",
-      "disease": "grin",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
+      "at": "2026-07-13T11:20:20.359599"
     },
     {
       "nct_id": "NCT04646447",
@@ -2591,47 +2575,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:05.799794"
-    },
-    {
-      "nct_id": "NCT01496989",
-      "disease": "grin",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
-    },
-    {
-      "nct_id": "NCT00851383",
-      "disease": "grin",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
-    },
-    {
-      "nct_id": "NCT07224581",
-      "disease": "grin",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:05.799794"
-    },
-    {
-      "nct_id": "NCT01705990",
-      "disease": "grin",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
-    },
-    {
-      "nct_id": "NCT05818943",
-      "disease": "grin",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:05.799794"
+      "at": "2026-07-13T11:20:20.359599"
     },
     {
       "nct_id": "NCT01264445",
@@ -2639,31 +2583,55 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
+      "at": "2026-07-13T11:20:20.359599"
     },
     {
-      "nct_id": "NCT00163085",
+      "nct_id": "NCT00851383",
       "disease": "grin",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
+      "at": "2026-07-13T11:20:20.359599"
     },
     {
-      "nct_id": "NCT05666687",
+      "nct_id": "NCT01705990",
       "disease": "grin",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
+      "at": "2026-07-13T11:20:20.359599"
     },
     {
-      "nct_id": "NCT00472576",
+      "nct_id": "NCT05818943",
+      "disease": "grin",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:20.359599"
+    },
+    {
+      "nct_id": "NCT01496989",
       "disease": "grin",
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
+      "at": "2026-07-13T11:20:20.359599"
+    },
+    {
+      "nct_id": "NCT02099994",
+      "disease": "grin",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:20.359599"
+    },
+    {
+      "nct_id": "NCT07224581",
+      "disease": "grin",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:20.359599"
     },
     {
       "nct_id": "NCT00526968",
@@ -2671,7 +2639,31 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:05.799794"
+      "at": "2026-07-13T11:20:20.359599"
+    },
+    {
+      "nct_id": "NCT00472576",
+      "disease": "grin",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:20.359599"
+    },
+    {
+      "nct_id": "NCT05666687",
+      "disease": "grin",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:20.359599"
+    },
+    {
+      "nct_id": "NCT00163085",
+      "disease": "grin",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:20.359599"
     },
     {
       "nct_id": "NCT07413211",
@@ -2679,7 +2671,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:06.278551"
+      "at": "2026-07-13T11:20:20.880778"
     },
     {
       "nct_id": "NCT05440994",
@@ -2687,31 +2679,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:07.703410"
-    },
-    {
-      "nct_id": "NCT04027816",
-      "disease": "inad",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:07.703410"
-    },
-    {
-      "nct_id": "NCT03726996",
-      "disease": "inad",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "TERMINATED",
-      "at": "2026-07-06T12:10:07.703410"
-    },
-    {
-      "nct_id": "NCT05522374",
-      "disease": "inad",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "RECRUITING",
-      "at": "2026-07-06T12:10:07.703410"
+      "at": "2026-07-13T11:20:22.473422"
     },
     {
       "nct_id": "NCT03570931",
@@ -2719,15 +2687,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:07.703410"
+      "at": "2026-07-13T11:20:22.473422"
     },
     {
-      "nct_id": "NCT02587858",
+      "nct_id": "NCT04027816",
       "disease": "inad",
       "change_type": "new_trial",
       "old": null,
-      "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:07.703410"
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:22.473422"
+    },
+    {
+      "nct_id": "NCT03726996",
+      "disease": "inad",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "TERMINATED",
+      "at": "2026-07-13T11:20:22.473422"
     },
     {
       "nct_id": "NCT03999814",
@@ -2735,7 +2711,23 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:07.703410"
+      "at": "2026-07-13T11:20:22.473422"
+    },
+    {
+      "nct_id": "NCT02587858",
+      "disease": "inad",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "UNKNOWN",
+      "at": "2026-07-13T11:20:22.473422"
+    },
+    {
+      "nct_id": "NCT05522374",
+      "disease": "inad",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "RECRUITING",
+      "at": "2026-07-13T11:20:22.473422"
     },
     {
       "nct_id": "NCT06912841",
@@ -2743,7 +2735,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:10:07.703410"
+      "at": "2026-07-13T11:20:22.473422"
     },
     {
       "nct_id": "NCT06144957",
@@ -2751,7 +2743,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:10:09.599330"
+      "at": "2026-07-13T11:20:24.811090"
     },
     {
       "nct_id": "NCT04681781",
@@ -2759,7 +2751,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "ENROLLING_BY_INVITATION",
-      "at": "2026-07-06T12:10:09.599330"
+      "at": "2026-07-13T11:20:24.811090"
     },
     {
       "nct_id": "NCT07102524",
@@ -2767,55 +2759,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:09.599330"
-    },
-    {
-      "nct_id": "NCT06248645",
-      "disease": "ahc",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:10.595551"
-    },
-    {
-      "nct_id": "NCT02408354",
-      "disease": "ahc",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:10.595551"
-    },
-    {
-      "nct_id": "NCT06007521",
-      "disease": "ahc",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:10.595551"
-    },
-    {
-      "nct_id": "NCT04944927",
-      "disease": "ahc",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:10.595551"
-    },
-    {
-      "nct_id": "NCT00682513",
-      "disease": "ahc",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "ACTIVE_NOT_RECRUITING",
-      "at": "2026-07-06T12:10:10.595551"
-    },
-    {
-      "nct_id": "NCT00931164",
-      "disease": "ahc",
-      "change_type": "new_trial",
-      "old": null,
-      "new": "COMPLETED",
-      "at": "2026-07-06T12:10:10.595551"
+      "at": "2026-07-13T11:20:24.811090"
     },
     {
       "nct_id": "NCT04020848",
@@ -2823,7 +2767,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "COMPLETED",
-      "at": "2026-07-06T12:10:10.595551"
+      "at": "2026-07-13T11:20:26.195521"
     },
     {
       "nct_id": "NCT03857607",
@@ -2831,7 +2775,55 @@
       "change_type": "new_trial",
       "old": null,
       "new": "UNKNOWN",
-      "at": "2026-07-06T12:10:10.595551"
+      "at": "2026-07-13T11:20:26.195521"
+    },
+    {
+      "nct_id": "NCT02408354",
+      "disease": "ahc",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:26.195521"
+    },
+    {
+      "nct_id": "NCT00682513",
+      "disease": "ahc",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "ACTIVE_NOT_RECRUITING",
+      "at": "2026-07-13T11:20:26.195521"
+    },
+    {
+      "nct_id": "NCT04944927",
+      "disease": "ahc",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:26.195521"
+    },
+    {
+      "nct_id": "NCT06007521",
+      "disease": "ahc",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:26.195521"
+    },
+    {
+      "nct_id": "NCT06248645",
+      "disease": "ahc",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:26.195521"
+    },
+    {
+      "nct_id": "NCT00931164",
+      "disease": "ahc",
+      "change_type": "new_trial",
+      "old": null,
+      "new": "COMPLETED",
+      "at": "2026-07-13T11:20:26.195521"
     },
     {
       "nct_id": "NCT03428009",
@@ -2839,7 +2831,7 @@
       "change_type": "new_trial",
       "old": null,
       "new": "RECRUITING",
-      "at": "2026-07-06T12:10:10.595551"
+      "at": "2026-07-13T11:20:26.195521"
     }
   ]
 }
